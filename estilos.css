@@ -1,0 +1,142 @@
+div{
+    width: 95%;
+    background: #163486;
+    padding: 15;
+    border: 5px solid rgb(255, 255, 255);
+}
+
+.principal{
+    background: #ffffff;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+body{
+    background: #000000;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li a {
+    display: block;
+    width: 60px;
+}
+li a:hover {
+    background-color: #163486;
+    color: white;
+}
+
+.active {
+    background-color: #163486;
+    color: white;
+}
+ul {
+    border: 1px solid #555;
+}
+
+li {
+    text-align: center;
+    border-bottom: 1px solid #555;
+}
+
+li:last-child {
+    border-bottom: none;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    background-color: #f1f1f1;
+    height: 5%; 
+    position: fixed; 
+    overflow: auto; 
+}
+li {
+    display: inline;
+}
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #163486;
+}
+ul {
+    background-color: #163486;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: #111;
+}
+.active {
+    background-color: #163486;
+}
+
+li {
+    border-right: 1px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
+}
+ul {
+    position: fixed;
+    top: 0;
+    width:20%;
+}
+ul {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+ul {
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}
+
+li a {
+    color: rgb(255, 255, 255);
+}
+ul {
+    position: -webkit-sticky; 
+    position: sticky;
+    top: 0;
+}
